@@ -1,8 +1,8 @@
 {
-    "id": "33d509b0-e4aa-49f7-9039-859bf59e7d48",
+    "id": "5fc710f0-9e6d-4814-8c00-d47782e4a9a1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_bullet_energy",
+    "name": "obj_bullet_enemy",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "be9f7e56-4b33-44c1-aa1b-ad4e8f4a6d64",
     "visible": true
 }

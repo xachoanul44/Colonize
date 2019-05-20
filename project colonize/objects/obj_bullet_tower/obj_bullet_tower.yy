@@ -1,8 +1,8 @@
 {
-    "id": "d41d871e-6523-4ef1-8e01-780a291e8441",
+    "id": "3a8eab08-1731-4741-aba6-42c8c49423db",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Base",
+    "name": "obj_bullet_tower",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5821490c-30b3-44ab-bcb6-b3f70f6ea94c",
+    "spriteId": "be9f7e56-4b33-44c1-aa1b-ad4e8f4a6d64",
     "visible": true
 }
