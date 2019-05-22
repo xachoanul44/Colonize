@@ -223,14 +223,6 @@
             }
         },
         {
-            "Key": "539ff726-c677-4f1e-a0ea-4c7619c2f15b",
-            "Value": {
-                "id": "debd20d4-e5b0-4e52-9fd0-8bd62eb87623",
-                "resourcePath": "scripts\\add_item\\add_item.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "560ca959-81de-4364-93b7-91e42a06c657",
             "Value": {
                 "id": "19d33894-1910-45b5-8d83-ffc7fa59ac31",
@@ -623,14 +615,6 @@
             }
         },
         {
-            "Key": "dc2cb080-5bf4-4a35-b680-d21deb880ed0",
-            "Value": {
-                "id": "9dd09894-3fff-45d9-ad33-6ae2b39cc35c",
-                "resourcePath": "scripts\\craft_item\\craft_item.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "de875d59-6dc8-4366-a67b-e80c7a36e995",
             "Value": {
                 "id": "9b27e9e5-0876-4bf6-8ac3-f4193a5a4a91",
@@ -752,8 +736,7 @@
         }
     ],
     "script_order": [
-        "dc2cb080-5bf4-4a35-b680-d21deb880ed0",
-        "539ff726-c677-4f1e-a0ea-4c7619c2f15b"
+        
     ],
     "tutorial": ""
 }
