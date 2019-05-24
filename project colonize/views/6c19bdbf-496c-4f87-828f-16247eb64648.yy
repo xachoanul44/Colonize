@@ -6,7 +6,8 @@
     "children": [
         "46e141fc-8674-4c10-b853-9ab96cdf7ff1",
         "bfac7613-85db-4d64-9357-723f1d48bd27",
-        "65d00370-d893-44f9-99b4-b401706213f2"
+        "65d00370-d893-44f9-99b4-b401706213f2",
+        "add783c9-edd4-4934-9b21-c2d5af89f30d"
     ],
     "filterType": "GMObject",
     "folderName": "Trees",

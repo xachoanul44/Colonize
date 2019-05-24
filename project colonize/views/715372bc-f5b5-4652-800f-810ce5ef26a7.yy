@@ -8,10 +8,11 @@
         "a2925a95-f740-48f4-88b0-96b0eb61b891",
         "8b7a8f94-08cb-4c94-b203-6b91fd63301f",
         "d1ce8611-e813-4472-801b-66fcafe14c24",
-        "4ed83249-f5d0-4fae-bd2d-f87c169a805f"
+        "4ed83249-f5d0-4fae-bd2d-f87c169a805f",
+        "8225536a-b197-4a02-8f31-5fcd78a350fb"
     ],
     "filterType": "GMObject",
-    "folderName": "Resources",
+    "folderName": "Items",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
