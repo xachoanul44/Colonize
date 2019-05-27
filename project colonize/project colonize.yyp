@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "ab37a070-bd4d-40b3-9151-ff771fae3014",
+            "Value": {
+                "id": "a2a71db1-abbc-4cec-911d-2a4c4e115c08",
+                "resourcePath": "objects\\spawn_enemy\\spawn_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "adb014ba-bbe8-4b8f-8599-9f0866f960c6",
             "Value": {
                 "id": "53004235-42d6-4216-932f-eaed42cd77b3",
@@ -812,6 +820,14 @@
                 "id": "2e934eec-2c85-46bf-9030-6135b0d30437",
                 "resourcePath": "options\\xboxone\\options_xboxone.yy",
                 "resourceType": "GMXBoxOneOptions"
+            }
+        },
+        {
+            "Key": "f9a237de-0c4a-4c8b-bc80-edf08034f5ba",
+            "Value": {
+                "id": "1d1039a2-3d70-4153-9322-b60e0ee75773",
+                "resourcePath": "objects\\obj_per_enemy\\obj_per_enemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
