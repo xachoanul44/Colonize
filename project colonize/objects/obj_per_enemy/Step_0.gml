@@ -7,3 +7,7 @@ if distance_to_object(obj_player) <= 200{
 }else{
 	direction = point_direction(x, y, Base.x, Base.y,);
 }
+
+if hp <= 0{
+	instance_destroy();
+}

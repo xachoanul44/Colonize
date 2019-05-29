@@ -5,16 +5,6 @@
     "name": "obj_per_enemy",
     "eventList": [
         {
-            "id": "6c4e195b-868c-464d-8907-a7a016d4ee15",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "f9a237de-0c4a-4c8b-bc80-edf08034f5ba"
-        },
-        {
             "id": "ed4aadca-f178-4739-b653-0b05efa74198",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -30,6 +20,26 @@
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "d41d871e-6523-4ef1-8e01-780a291e8441",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "f9a237de-0c4a-4c8b-bc80-edf08034f5ba"
+        },
+        {
+            "id": "cfd5292a-d2e6-496d-b19d-408cb15d1f14",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "f9a237de-0c4a-4c8b-bc80-edf08034f5ba",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "f9a237de-0c4a-4c8b-bc80-edf08034f5ba"
+        },
+        {
+            "id": "faa7259f-cb4b-45e9-8c11-3b4b9b55c4e9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "a1938428-5ae8-440f-9253-219bbc0d6773",
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "f9a237de-0c4a-4c8b-bc80-edf08034f5ba"
@@ -51,7 +61,22 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "dc3605ad-4133-45c0-bf00-e324c02f385f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "2",
+            "varName": "hp",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true

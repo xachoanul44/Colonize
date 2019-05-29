@@ -1,5 +1,5 @@
 if distance_to_object(obj_player) <= 20{
-	if mouse_check_button_released(mb_left){
+	if mouse_check_button_released(mb_right){
 		hp -= 1;
 	}
 }
