@@ -3,11 +3,18 @@ if (keyboard_check(ord("S")) || keyboard_check(vk_down)) y += speed_player;
 if (keyboard_check(ord("A")) || keyboard_check(vk_left)) x -= speed_player;
 if (keyboard_check(ord("D")) || keyboard_check(vk_right)) x += speed_player;
 
+if keyboard_check_pressed(ord("1")) and flag == false{
+	flag = true;
+}else if keyboard_check_pressed(ord("1")) and flag == true{
+	flag = false;
+}
+
+
 direction = point_direction(x, y, mouse_x, mouse_y);
 
 image_angle = direction;
 
-if (mouse_check_button(mb_left))
+if (mouse_check_button(mb_left) and flag == true)
 {
 	if(cooldown <= 0)
 	{

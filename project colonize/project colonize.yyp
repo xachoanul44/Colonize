@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "018f79c9-d615-4a52-b8cc-31518a5f82aa",
+            "Value": {
+                "id": "b66dfced-4db0-438a-8b2e-d448f0398c25",
+                "resourcePath": "objects\\inv_craft\\inv_craft.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "07d929e2-1405-43c7-9317-0343e54f6ffe",
             "Value": {
                 "id": "b64a6eff-628f-4f62-92a6-08756c6ebbeb",
