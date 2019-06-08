@@ -1,8 +1,8 @@
 {
-    "id": "99115086-8564-4a8d-ab43-84ba03b3d8e6",
+    "id": "23c0eab1-a703-4f67-8c16-ad376e94b752",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_crafttable",
+    "name": "obj_neon_tower",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "0eee48a4-405c-48a8-ae4e-6b8325d72272",
     "visible": true
 }
