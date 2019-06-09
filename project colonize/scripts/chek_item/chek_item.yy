@@ -1,8 +1,8 @@
 {
-    "id": "c2fd5a9f-3741-43fa-9bf6-21d7f9129d4c",
+    "id": "0ccd7f30-6972-401a-82aa-68c824335833",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "add_item",
+    "name": "chek_item",
     "IsCompatibility": false,
     "IsDnD": false
 }
