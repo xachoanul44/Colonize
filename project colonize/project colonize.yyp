@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "a1be00b3-0473-4ac6-8565-67e0631f480b",
+            "Value": {
+                "id": "4367adab-35a0-43bb-8d7c-110d4e048ac6",
+                "resourcePath": "objects\\obj_par_tower\\obj_par_tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a220f74b-fd68-4908-a4b0-00f75dca0d77",
             "Value": {
                 "id": "fc82b479-6369-459a-b8f3-65aa7e33e29c",
