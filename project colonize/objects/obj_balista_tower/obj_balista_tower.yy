@@ -1,5 +1,5 @@
 {
-    "id": "4daaf680-97dd-47bf-9709-f882240702ca",
+    "id": "a349ec75-7a1d-4570-81c5-8744a6aa4724",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_balista_tower",
@@ -8,7 +8,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "a1be00b3-0473-4ac6-8565-67e0631f480b",
+    "parentObjectId": "ae7d7a11-c4bb-4467-bfa4-7c2382ffd18a",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

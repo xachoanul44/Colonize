@@ -1,14 +1,23 @@
 {
-    "id": "c175b358-7132-4c4c-87eb-1cf71827d2ae",
+    "id": "1ba764ea-b77a-4ad1-ac02-f3146710467d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_neon_tower",
+    "name": "obj_mortir_shd",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
-    "parentObjectId": "ae7d7a11-c4bb-4467-bfa4-7c2382ffd18a",
+    "overriddenProperties": [
+        {
+            "id": "fb5e7b8b-3373-40b7-b3b2-dbf0931fda2a",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "a1be00b3-0473-4ac6-8565-67e0631f480b",
+            "propertyId": "2c256006-b75b-47d0-b4d6-051aea8ec307",
+            "value": "obj_mortir_tower1"
+        }
+    ],
+    "parentObjectId": "a1be00b3-0473-4ac6-8565-67e0631f480b",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0eee48a4-405c-48a8-ae4e-6b8325d72272",
+    "spriteId": "d678baf0-d3c0-441c-8652-c29ffbfff7f6",
     "visible": true
 }

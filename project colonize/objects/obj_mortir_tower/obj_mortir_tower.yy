@@ -1,5 +1,5 @@
 {
-    "id": "1ba764ea-b77a-4ad1-ac02-f3146710467d",
+    "id": "5911c0bf-da64-4e65-afc3-775cad2ce048",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "obj_mortir_tower",
@@ -8,7 +8,7 @@
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "a1be00b3-0473-4ac6-8565-67e0631f480b",
+    "parentObjectId": "ae7d7a11-c4bb-4467-bfa4-7c2382ffd18a",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

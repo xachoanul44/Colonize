@@ -47,10 +47,18 @@
             }
         },
         {
+            "Key": "086b6cac-ea97-414c-95be-c0d0141b8735",
+            "Value": {
+                "id": "33f29c31-9e63-4236-8b14-441b58e7c91a",
+                "resourcePath": "objects\\obj_archers_tower\\obj_archers_tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ccd7f30-6972-401a-82aa-68c824335833",
             "Value": {
                 "id": "2becd6cb-9aa9-4eb2-bcc7-3222cd24d037",
-                "resourcePath": "scripts\\chek_item\\chek_item.yy",
+                "resourcePath": "scripts\\check_item\\check_item.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -90,7 +98,7 @@
             "Key": "1ba764ea-b77a-4ad1-ac02-f3146710467d",
             "Value": {
                 "id": "2d65365d-5190-404e-9298-c59cc8a7b566",
-                "resourcePath": "objects\\obj_mortir_tower\\obj_mortir_tower.yy",
+                "resourcePath": "objects\\obj_mortir_shd\\obj_mortir_shd.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -146,7 +154,7 @@
             "Key": "23c0eab1-a703-4f67-8c16-ad376e94b752",
             "Value": {
                 "id": "21943f66-19e9-4f56-8f6d-eeb46a66e586",
-                "resourcePath": "objects\\obj_neon_tower\\obj_neon_tower.yy",
+                "resourcePath": "objects\\obj_neon_shd\\obj_neon_shd.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -258,7 +266,7 @@
             "Key": "4daaf680-97dd-47bf-9709-f882240702ca",
             "Value": {
                 "id": "f4e1b3e3-5645-4e3d-bfd5-2119aad02965",
-                "resourcePath": "objects\\obj_balista_tower\\obj_balista_tower.yy",
+                "resourcePath": "objects\\obj_balista_shd\\obj_balista_shd.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -284,6 +292,14 @@
                 "id": "fd331708-7119-4883-afb3-edf5a0f37a3c",
                 "resourcePath": "sprites\\spr_base\\spr_base.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5911c0bf-da64-4e65-afc3-775cad2ce048",
+            "Value": {
+                "id": "715b1759-f824-4d54-994b-fda11ce5ab47",
+                "resourcePath": "objects\\obj_mortir_tower\\obj_mortir_tower.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -546,7 +562,7 @@
             "Key": "a1be00b3-0473-4ac6-8565-67e0631f480b",
             "Value": {
                 "id": "4367adab-35a0-43bb-8d7c-110d4e048ac6",
-                "resourcePath": "objects\\obj_par_tower\\obj_par_tower.yy",
+                "resourcePath": "objects\\obj_par_tower_shd\\obj_par_tower_shd.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -563,6 +579,14 @@
             "Value": {
                 "id": "11dc243e-051a-4eb7-80b8-4a54fadaca68",
                 "resourcePath": "objects\\obj_crystal\\obj_crystal.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a349ec75-7a1d-4570-81c5-8744a6aa4724",
+            "Value": {
+                "id": "c0f0dfb6-85d3-4b06-a573-d318c4b3453c",
+                "resourcePath": "objects\\obj_balista_tower\\obj_balista_tower.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -627,6 +651,14 @@
             "Value": {
                 "id": "8d9444b9-a215-4839-aa07-f199401745c5",
                 "resourcePath": "objects\\obj_plent\\obj_plent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ae7d7a11-c4bb-4467-bfa4-7c2382ffd18a",
+            "Value": {
+                "id": "c8880b6e-86fd-4fa4-a0e9-1db47c23e21f",
+                "resourcePath": "objects\\obj_per_tower\\obj_per_tower.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -707,6 +739,14 @@
             "Value": {
                 "id": "a6bf11a1-cdd4-4c4f-9fae-27efe9c30d44",
                 "resourcePath": "objects\\obj_tree_small\\obj_tree_small.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c175b358-7132-4c4c-87eb-1cf71827d2ae",
+            "Value": {
+                "id": "b5f9e9b3-3ff2-4042-877b-1ddc2a8b88ae",
+                "resourcePath": "objects\\obj_neon_tower\\obj_neon_tower.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -890,7 +930,7 @@
             "Key": "f5e1a7aa-6dfb-4b8b-a3e3-3c6331ce4b03",
             "Value": {
                 "id": "9b82a1c9-8430-4b47-af44-c1a5cf4f970e",
-                "resourcePath": "objects\\obj_archers_tower\\obj_archers_tower.yy",
+                "resourcePath": "objects\\obj_archers_shd\\obj_archers_shd.yy",
                 "resourceType": "GMObject"
             }
         },

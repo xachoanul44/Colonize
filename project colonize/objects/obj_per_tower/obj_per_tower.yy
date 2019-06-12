@@ -1,14 +1,23 @@
 {
-    "id": "c175b358-7132-4c4c-87eb-1cf71827d2ae",
+    "id": "ae7d7a11-c4bb-4467-bfa4-7c2382ffd18a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_neon_tower",
+    "name": "obj_per_tower",
     "eventList": [
-        
+        {
+            "id": "1ce9e7dd-c8e8-44cf-ba22-551536b2a82e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "ae7d7a11-c4bb-4467-bfa4-7c2382ffd18a"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "ae7d7a11-c4bb-4467-bfa4-7c2382ffd18a",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "0eee48a4-405c-48a8-ae4e-6b8325d72272",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
