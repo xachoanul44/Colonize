@@ -14,7 +14,7 @@
             "mvc": "1.0",
             "objectId": "a1be00b3-0473-4ac6-8565-67e0631f480b",
             "propertyId": "2c256006-b75b-47d0-b4d6-051aea8ec307",
-            "value": "obj_mortir_tower1"
+            "value": "obj_mortir_tower"
         }
     ],
     "parentObjectId": "a1be00b3-0473-4ac6-8565-67e0631f480b",

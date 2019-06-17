@@ -29,3 +29,10 @@ cooldown -= 1;
 if hp <= 0{
 	room_restart();
 }
+
+if keyboard_check_pressed(ord("2")){
+	add_item_num(spr_wood, 999);
+	add_item_num(spr_iron, 999);
+	add_item_num(spr_stone, 999);
+	add_item_num(spr_crystal, 999);
+}
