@@ -7,6 +7,6 @@ y_ = _y + 32;
 draw_set_alpha(1);
 draw_rectangle_color(_x, _y, _x + 300, _y + 32, c_black, c_black, c_black, c_black, 0);
 draw_set_alpha(1);
-draw_rectangle_color(_x, _y, x_, y_, c_red, c_red, c_black, c_black, 0);
+draw_rectangle_color(_x, _y, x_, y_, make_colour_hsv(127, 225, 249), make_colour_hsv(186, 225, 249), make_colour_hsv(186, 225, 249), make_colour_hsv(127, 225, 249), 0);
 draw_set_alpha(1);
 draw_rectangle_color(_x, _y, _x + 300, _y + 32, c_white, c_white, c_white, c_white, 1);
