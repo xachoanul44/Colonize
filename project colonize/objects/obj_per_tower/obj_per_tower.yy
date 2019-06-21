@@ -52,22 +52,8 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "10",
             "varName": "hp",
-            "varType": 1
-        },
-        {
-            "id": "4660f360-3cff-43fe-a73c-6ba79fab3939",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "0",
-            "varName": "damage",
             "varType": 1
         },
         {
@@ -94,9 +80,23 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
+            "value": "obj_bullet_tower",
             "varName": "obj_bullet",
             "varType": 5
+        },
+        {
+            "id": "ccfde0e0-319e-41d4-825e-26d8eac4568f",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "400",
+            "varName": "distance",
+            "varType": 1
         }
     ],
     "solid": false,
